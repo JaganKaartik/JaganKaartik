@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Shrynk-Flask-App](https://github.com/JaganKaartik/Shrynk-Flask-App)
+
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Shrynk-Flask-App))](https://github.com/JaganKaartik/Shrynk-Flask-App)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![[](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Shrynk-Flask-App)](https://github.com/JaganKaartik/Shrynk-Flask-App)
