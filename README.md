@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Shrynk-Flask-App))](https://github.com/JaganKaartik/Shrynk-Flask-App)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Shrynk-Flask-App)](https://github.com/JaganKaartik/Shrynk-Flask-App)
 
