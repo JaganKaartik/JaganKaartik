@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&theme=tokyonight)](https://github.com/JaganKaartik/Swizzl-Py)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Structry&repo=Information-Retrieval-Fundamentals&theme=tokyonight)](https://github.com/Structry/Information-Retrieval-Fundamentals)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=MyCloudle&repo=Typescript-Express-Docker-Boilerplate&theme=tokyonight)](https://github.com/MyCloudle/Typescript-Express-Docker-Boilerplate)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Foodle&theme=tokyonight)](https://github.com/JaganKaartik/Foodle)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&theme=tokyonight)](https://github.com/JaganKaartik/Swizzl-Py)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Structry&repo=Information-Retrieval-Fundamentals&theme=tokyonight)](https://github.com/Structry/Information-Retrieval-Fundamentals)
