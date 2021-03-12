@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **JaganKaartik/JaganKaartik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py)](https://github.com/JaganKaartik/Swizzl-Py)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Structry&repo=Information-Retrieval-Fundamentals)](https://github.com/Structry/Information-Retrieval-Fundamentals)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=MyCloudle&repo=Typescript-Express-Docker-Boilerplate)](https://github.com/MyCloudle/Typescript-Express-Docker-Boilerplate)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Foodle)](https://github.com/JaganKaartik/Foodle)
