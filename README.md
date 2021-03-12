@@ -16,7 +16,16 @@ Here are some ideas to get you started:
 -->
 
 
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=MyCloudle&repo=Typescript-Express-Docker-Boilerplate&theme=tokyonight)](https://github.com/MyCloudle/Typescript-Express-Docker-Boilerplate)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Foodle&theme=tokyonight)](https://github.com/JaganKaartik/Foodle)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&theme=tokyonight)](https://github.com/JaganKaartik/Swizzl-Py)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Structry&repo=Information-Retrieval-Fundamentals&theme=tokyonight)](https://github.com/Structry/Information-Retrieval-Fundamentals)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=MyCloudle&repo=Typescript-Express-Docker-Boilerplate&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/MyCloudle/Typescript-Express-Docker-Boilerplate)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Foodle&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/JaganKaartik/Foodle)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/JaganKaartik/Swizzl-Py)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Structry&repo=Information-Retrieval-Fundamentals&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Structry/Information-Retrieval-Fundamentals)
+
+<!--
+![Jagan's GitHub stats](https://github-readme-stats-lime-kappa.vercel.app/api?username=JaganKaartik&count_private=true)
+-->
+
+<p align="center">
+<a href="https://github.com/JaganKaartik">
+<img align="center" src="https://github-readme-stats-lime-kappa.vercel.app/api?username=JaganKaartik&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Statistics"/>
+</a></p><br>
