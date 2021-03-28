@@ -15,16 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Structry&repo=Simple-Semantic-Similarity-Ranking&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/Structry/Simple-Semantic-Similarity-Ranking)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/JaganKaartik/Swizzl-Py)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=MyCloudle&repo=Node-Server-Boilerplate&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/MyCloudle/Node-Server-Boilerplate)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Foodle&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/JaganKaartik/Foodle)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/JaganKaartik/Swizzl-Py)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Structry&repo=Information-Retrieval-Fundamentals&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/Structry/Information-Retrieval-Fundamentals)
 
-<p align="center">
-<a href="https://github.com/JaganKaartik/Haskell-Fundamentals">
-<img align="center" src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=JaganKaartik&repo=Haskell-Fundamentals&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723" alt="Statistics"/>
-</a></p><br>
+
 
 
 <!--
