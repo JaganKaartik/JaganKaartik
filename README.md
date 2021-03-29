@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 | https://foodle.jagankaartik.live | ![](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white) |
 |----------------------------------|--------------------------------------------------------------------------------------------------------------
 | https://blog.jagankaartik.live   | ![](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white") |   
-                                                                                                                                                                                                                                                        
-
+                                                                                                                                                                                                   
+### Projects
 
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Structry&repo=Semantic-Similarity-Ranking-v.1&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/Structry/Semantic-Similarity-Ranking-v.1)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/JaganKaartik/Swizzl-Py)
