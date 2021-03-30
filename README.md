@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 ### Active Deployments
 
-| https://foodle.jagankaartik.live | ![](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white) |
+|                                  |                                                                                                             |
 |----------------------------------|--------------------------------------------------------------------------------------------------------------
 | https://blog.jagankaartik.live   | ![](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white") |   
+| https://foodle.jagankaartik.live | ![](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)  |
 
 ### Projects
 
