@@ -6,10 +6,7 @@
 
 </td><td valign="top" width="50%">
 
-<p align="center">
-<a href="https://github.com/JaganKaartik">
-<img align="center" src="https://github-readme-stats-lime-kappa.vercel.app/api?username=JaganKaartik&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723" alt="Statistics"/>
-</a></p><br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JaganKaartik&theme=react)
 
 </td></tr></table>  
 
@@ -42,6 +39,11 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/JaganKaartik/Swizzl-Py)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=MyCloudle&repo=Quick-Node&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/MyCloudle/Quick-Node)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Foodle&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/JaganKaartik/Foodle)
+
+<p align="center">
+<a href="https://github.com/JaganKaartik">
+<img align="center" src="https://github-readme-stats-lime-kappa.vercel.app/api?username=JaganKaartik&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723" alt="Statistics"/>
+</a></p><br>
 
 <!--
 ![Jagan's GitHub stats](https://github-readme-stats-lime-kappa.vercel.app/api?username=JaganKaartik&count_private=true)
