@@ -1,6 +1,18 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%; height: 50%" />
+<table><tr><td valign="top" width="50%">
+
+<div align="center" style="justify-center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
+
+</td><td valign="top" width="50%">
+
+<p align="center">
+<a href="https://github.com/JaganKaartik">
+<img align="center" src="https://github-readme-stats-lime-kappa.vercel.app/api?username=JaganKaartik&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723" alt="Statistics"/>
+</a></p><br>
+
+</td></tr></table>  
+
   
 <!--
 **JaganKaartik/JaganKaartik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
