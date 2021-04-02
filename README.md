@@ -8,7 +8,17 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JaganKaartik&theme=react)
 
+
+<p align="center">
+<a href="https://github.com/JaganKaartik"><img src="https://img.shields.io/github/followers/JaganKaartik.svg?label=GitHub&style=social" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/JaganKaartik"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://stackoverflow.com/users/12408623/jagan-kaartik"><img src="https://img.shields.io/badge/stackoverflow-FE7A16.svg?style=social&logo=stackoverflow" alt="stackoverflow"></a>
+<a href="https://blog.jagankaartik.live">
+  <img src="https://img.shields.io/badge/Tech Blog--_.svg?style=social&logo=jekyll"
+</p><br>
+
 </td></tr></table>  
+
 
   
 <!--
@@ -25,13 +35,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Active Deployments
-
-|                                  |                                                                                                             |                                                         |
-|----------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
-| https://blog.jagankaartik.live   | ![](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white") |![](https://img.shields.io/badge/Deployment-Success-green) |
-| https://foodle.jagankaartik.live | ![](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)  |![](https://img.shields.io/badge/Deployment-Success-green) |
 
 ### Projects
 
