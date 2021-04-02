@@ -36,13 +36,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Projects
+<h2 align="center" style="justify-center">
+Projects
+</h2>  
+
 
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Structry&repo=Semantic-Similarity-Ranking-v.1&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/Structry/Semantic-Similarity-Ranking-v.1)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/JaganKaartik/Swizzl-Py)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=MyCloudle&repo=Quick-Node&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/MyCloudle/Quick-Node)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Foodle&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/JaganKaartik/Foodle)
 
+
+| Deployed Projects (Live)                  |
+|-------------------------------------------|
+| [Foodle](https://foodle.jagankaarik.live) |
+| [Shrynk](https://shrynk.herokuapp.com)    |
 
 <!--
 ![Jagan's GitHub stats](https://github-readme-stats-lime-kappa.vercel.app/api?username=JaganKaartik&count_private=true)
