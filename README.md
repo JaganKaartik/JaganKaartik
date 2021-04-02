@@ -49,8 +49,9 @@ Projects
 
 | Deployed Projects (Live)                  |
 |-------------------------------------------|
-| [Foodle](https://foodle.jagankaartik.live) |
+| [Foodle](https://foodle.jagankaartik.live)|
 | [Shrynk](https://shrynk.herokuapp.com)    |
+| [Tech Blog](https://blog.jagankaartik.live)    |
 
 <!--
 ![Jagan's GitHub stats](https://github-readme-stats-lime-kappa.vercel.app/api?username=JaganKaartik&count_private=true)
