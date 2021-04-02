@@ -49,7 +49,7 @@ Projects
 
 | Deployed Projects (Live)                  |
 |-------------------------------------------|
-| [Foodle](https://foodle.jagankaarik.live) |
+| [Foodle](https://foodle.jagankaartik.live) |
 | [Shrynk](https://shrynk.herokuapp.com)    |
 
 <!--
