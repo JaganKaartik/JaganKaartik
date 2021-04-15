@@ -18,7 +18,7 @@
 </p><br>
   
   
-| Deployed Projects (Live) | [Foodle](https://foodle.jagankaarik.live) | [Shrynk](https://shrynk.herokuapp.com) | [Tech Blog](https://blog.jagankaartik.live) |
+| Live : | [Foodle](https://foodle.jagankaarik.live) | [Shrynk](https://shrynk.herokuapp.com) | [Tech Blog](https://blog.jagankaartik.live) |
 |--------------------------|-------------------------------------------|----------------------------------------|---------------------------------------------|
 
 
