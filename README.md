@@ -16,11 +16,7 @@
 <a href="https://blog.jagankaartik.live">
   <img src="https://img.shields.io/badge/Tech Blog--_.svg?style=social&logo=jekyll">
 </p><br>
-  
-  
-| Live : | [Foodle](https://foodle.jagankaarik.live) | [Shrynk](https://shrynk.herokuapp.com) | [Tech Blog](https://blog.jagankaartik.live) |
-|--------------------------|-------------------------------------------|----------------------------------------|---------------------------------------------|
-
+ 
 
 </td></tr></table>  
 
@@ -50,6 +46,11 @@ Projects
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/JaganKaartik/Swizzl-Py)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=MyCloudle&repo=Quick-Node&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/MyCloudle/Quick-Node)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Foodle&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/JaganKaartik/Foodle)
+
+
+| Live : | [Foodle](https://foodle.jagankaarik.live) | [Shrynk](https://shrynk.herokuapp.com) | [Tech Blog](https://blog.jagankaartik.live) |
+|--------------------------|-------------------------------------------|----------------------------------------|---------------------------------------------|
+
 
 <!--
 ![Jagan's GitHub stats](https://github-readme-stats-lime-kappa.vercel.app/api?username=JaganKaartik&count_private=true)
