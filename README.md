@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center" style="justify-center">
-Projects
+Pinned!
 </h2>  
 
 
