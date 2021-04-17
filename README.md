@@ -1,10 +1,10 @@
-<table><tr><td valign="top" width="30%">
+<table><tr><td valign="top" width="40%">
 
 <div align="center" style="justify-center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
-</td><td valign="top" width="70%">
+</td><td valign="top" width="60%">
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=JaganKaartik&theme=react) -->
 
