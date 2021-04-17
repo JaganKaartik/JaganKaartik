@@ -1,10 +1,10 @@
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="30%">
 
 <div align="center" style="justify-center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="70%">
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=JaganKaartik&theme=react) -->
 
@@ -20,16 +20,6 @@
 <a href="https://blog.jagankaartik.live">
   <img src="https://img.shields.io/badge/Tech Blog--_.svg?style=social&logo=jekyll">
 </p><br>
-
- 
-  
-  <!--
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
- -->
 
 </td></tr></table>  
 
@@ -64,6 +54,14 @@ Projects
 | Live : | [Foodle](https://foodle.jagankaarik.live) | [Shrynk](https://shrynk.herokuapp.com) | [Tech Blog](https://blog.jagankaartik.live) |
 |--------------------------|-------------------------------------------|----------------------------------------|---------------------------------------------|
 
+  <!--
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+ -->
+ 
 
 <!--
 ![Jagan's GitHub stats](https://github-readme-stats-lime-kappa.vercel.app/api?username=JaganKaartik&count_private=true) -->
