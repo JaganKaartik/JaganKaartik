@@ -1,7 +1,7 @@
 <table><tr><td valign="top" width="40%">
 
 <div align="center" style="justify-center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
 </div>  
 
 </td><td valign="top" width="60%">
@@ -23,6 +23,10 @@
 
 </td></tr></table>  
 
+  
+  <p align="center">
+<img src="https://freshidea.com/jonah/app/typing-svg/?lines=Full-Stack%20Web%20App%20Developer%3BExperienced%20in%20the%20MERN%20Stack%3BSelf%20driven%20and%20passionate%3BAlways%20learning%2Fexperimenting%20new%20ideas%3BInterested%20in%20building%20robust%20and%20scalable%3BSoftware%20with%20a%20product%2Fvalue%20centric%20approach%3B">
+</p>
 
   
 <!--
