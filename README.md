@@ -13,7 +13,7 @@
   
 <p align="center">
 <a href="https://github.com/JaganKaartik">
-<img align="center"  src="https://github-readme-stats-lime-kappa.vercel.app/api?username=JaganKaartik&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723" alt="Statistics"/>
+<img align="center"  src="https://github-readme-stats-lime-kappa.vercel.app/api?username=JaganKaartik&count_private=true&show_icons=true&theme=react" alt="Statistics"/>
 </a>
 </p>
 <br>
@@ -44,10 +44,10 @@ Pinned!
 </h2>  
 
 
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Structry&repo=Semantic-Similarity-Ranking-v.1&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/Structry/Semantic-Similarity-Ranking-v.1)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/JaganKaartik/Swizzl-Py)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=MyCloudle&repo=Quick-Node&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/MyCloudle/Quick-Node)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Foodle&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/JaganKaartik/Foodle)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Structry&repo=Semantic-Similarity-Ranking-v.1&theme=nord)](https://github.com/Structry/Semantic-Similarity-Ranking-v.1)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&theme=react)](https://github.com/JaganKaartik/Swizzl-Py)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=MyCloudle&repo=Quick-Node&theme=nord)](https://github.com/MyCloudle/Quick-Node)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Foodle&theme=react)](https://github.com/JaganKaartik/Foodle)
 
 
 <details>
