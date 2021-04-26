@@ -1,17 +1,7 @@
-<table><tr><td valign="top" width="40%">
-
-<div align="center" style="justify-center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
-</div>  
-
-</td><td valign="top" width="60%">
-
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=JaganKaartik&theme=react) -->
-
 <p align="center">
-<a href="https://github.com/JaganKaartik">
-<img align="center" src="https://github-readme-stats-lime-kappa.vercel.app/api?username=JaganKaartik&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723" alt="Statistics"/>
-</a></p><br>
+  <img width="350" height="200" src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</p>
+
 
 <p align="center">
 <a href="https://github.com/JaganKaartik"><img src="https://img.shields.io/github/followers/JaganKaartik.svg?label=GitHub&style=social" alt="GitHub"></a>
@@ -19,9 +9,15 @@
 <a href="https://stackoverflow.com/users/12408623/jagan-kaartik"><img src="https://img.shields.io/badge/stackoverflow-FE7A16.svg?style=social&logo=stackoverflow" alt="stackoverflow"></a>
 <a href="https://blog.jagankaartik.live">
   <img src="https://img.shields.io/badge/Tech Blog--_.svg?style=social&logo=jekyll">
-</p><br>
-
-</td></tr></table>  
+</p>
+  
+<p align="center">
+<a href="https://github.com/JaganKaartik">
+<img align="left" src="https://github-readme-stats-lime-kappa.vercel.app/api?username=JaganKaartik&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723" alt="Statistics"/>
+</a>
+ <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=JaganKaartik&theme=react" >
+</p>
+<br>
 
   <!--
   <p align="center">
