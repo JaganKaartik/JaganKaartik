@@ -13,9 +13,9 @@
   
 <p align="center">
 <a href="https://github.com/JaganKaartik">
-<img align="center" width="450" height="450" src="https://github-readme-stats-lime-kappa.vercel.app/api?username=JaganKaartik&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723" alt="Statistics"/>
+<img align="center"  src="https://github-readme-stats-lime-kappa.vercel.app/api?username=JaganKaartik&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723" alt="Statistics"/>
 </a>
- <img align="center" width="450" height="450" src="https://github-readme-streak-stats.herokuapp.com/?user=JaganKaartik&theme=react" >
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JaganKaartik&theme=react" >
 </p>
 <br>
 
