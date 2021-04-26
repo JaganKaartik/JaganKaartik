@@ -53,13 +53,12 @@ Pinned!
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=MyCloudle&repo=Quick-Node&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/MyCloudle/Quick-Node)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Foodle&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723)](https://github.com/JaganKaartik/Foodle)
 
-
 | Deployed Projects (Live)               |                                                 |
 |----------------------------------------|-------------------------------------------------|
-| Foodle SPA <ul><li>Foodle is a SPA built on the MERN stack, a CRUD application dealing with Dishes.</li></ul> | [Foodle](https://foodle.jagankaartik.live)       |
-| Shrynk.js <ul><li>A URL Shortener SPA built on the MERN stack.</li><li>Features <ul><li>Tiers & Quotas on URLs</li><li>Onboarding</li><li>OAuth</li><li>CRUD Dashboard</li><li>Analytics Dashboard</li></ul></li></ul>                   | [Shrynk.js](https://shrynkjs.jagankaartik.live) |
-| Tech Blog                              | [Tech Blog](https://blog.jagankaartik.live)     |
-| Flask URL Shortener (Old-Project)      | [Shrynk](https://shrynk.herokuapp.com)          |
+| Shrynk.js (2021) <ul><li>A URL Shortener SPA built on the MERN stack.</li><li>Features <ul><li>Tiers & Quotas on URLs</li><li>Onboarding</li><li>OAuth</li><li>CRUD & Analytics Dashboards</li></ul></li></ul>                   | [Shrynk.js](https://shrynkjs.jagankaartik.live) |
+| Foodle <ul><li>A SPA built on the MERN stack, a CRUD application dealing with Dishes.</li></ul> | [Foodle](https://foodle.jagankaartik.live)       |
+| Tech Blog  <ul><li>My Development Blog</li></ul>                            | [Tech Blog](https://blog.jagankaartik.live)     |
+| Shrynk-Flask (v.1 - 2019)  <ul><li>Shrynk - A simple implementation of a URL shortener using Flask/Heroku.</li><li> Users can create and manage multiple URLs.</li><li>Admin Panel</li></ul>    | [Shrynk](https://shrynk.herokuapp.com)          |
 
   <!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
