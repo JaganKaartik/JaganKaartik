@@ -18,11 +18,8 @@
 </p>
 <br>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+App+Developer!;MERN+Stack!;Self+driven+and+passionate!;Always+learning/experimenting+new+ideas!;
-Interested+in+building+robust+and+scalable+software!;
-With+a+product/value+centric+approach!&center=true&width=560&height=50&color=00adb5">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=FullStack+Web+App+Developer!;MERN+Stack!;Self+driven+and+passionate!;Always+learning/experimenting+new+ideas!;Interested+in+building+robust+and+scalable+software!;With+a+product/value+centric+approach!&center=true&width=560&height=50&color=00adb5">
 </p>
 
 <!--
