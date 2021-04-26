@@ -44,9 +44,9 @@ Pinned!
 </h2>  
 
 
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Structry&repo=Semantic-Similarity-Ranking-v.1&theme=nord)](https://github.com/Structry/Semantic-Similarity-Ranking-v.1)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Structry&repo=Semantic-Similarity-Ranking-v.1&theme=react)](https://github.com/Structry/Semantic-Similarity-Ranking-v.1)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&theme=react)](https://github.com/JaganKaartik/Swizzl-Py)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=MyCloudle&repo=Quick-Node&theme=nord)](https://github.com/MyCloudle/Quick-Node)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=MyCloudle&repo=Quick-Node&theme=react)](https://github.com/MyCloudle/Quick-Node)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Foodle&theme=react)](https://github.com/JaganKaartik/Foodle)
 
 
