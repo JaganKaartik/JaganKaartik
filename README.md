@@ -13,9 +13,9 @@
   
 <p align="center">
 <a href="https://github.com/JaganKaartik">
-<img align="left" src="https://github-readme-stats-lime-kappa.vercel.app/api?username=JaganKaartik&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723" alt="Statistics"/>
+<img align="center" width="450" height="450" src="https://github-readme-stats-lime-kappa.vercel.app/api?username=JaganKaartik&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131723" alt="Statistics"/>
 </a>
- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=JaganKaartik&theme=react" >
+ <img align="center" width="450" height="450" src="https://github-readme-streak-stats.herokuapp.com/?user=JaganKaartik&theme=react" >
 </p>
 <br>
 
@@ -24,6 +24,7 @@
 <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Full-Stack%20Web%20App%20Developer%3BExperienced%20in%20the%20MERN%20Stack%3BSelf%20driven%20and%20passionate%3BAlways%20learning%2Fexperimenting%20new%20ideas%3BInterested%20in%20building%20robust%20and%20scalable%3BSoftware%20with%20a%20product%2Fvalue%20centric%20approach%3B">
 </p>
 -->
+
 <!--
 **JaganKaartik/JaganKaartik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
