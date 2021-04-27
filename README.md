@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 Pinned!
 </h2>  
 
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Shrynk.js&theme=react)](https://github.com/JaganKaartik/Shrynk.js)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=ParkingLot-Node.js-API&theme=react)](https://github.com/JaganKaartik/ParkingLot-Node.js-API)
 
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Structry&repo=Semantic-Similarity-Ranking-v.1&theme=react)](https://github.com/Structry/Semantic-Similarity-Ranking-v.1)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&theme=react)](https://github.com/JaganKaartik/Swizzl-Py)
