@@ -49,6 +49,28 @@ Pinned!
 
 
 <details>
+<summary>APIs I've built (Click to expand!)</summary>
+  
+<h2 align="center" style="justify-center">
+APIs
+</h2>  
+<p align = "center">
+<img src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Good.Diet.Plans-API&theme=react">
+<img src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Hapi-Foodle-API&theme=react">
+</p>
+
+<h2 align="center" style="justify-center">
+Other Projects
+</h2>  
+
+<p align = "center">
+<img src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Haskell-Fundamentals&theme=react">
+<img src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=RSS-News-Feeds-Crawler&theme=react">
+</p>
+
+</details>
+
+<details>
 <summary>All Deployed Projects [Live] (Click to expand!)</summary>
   
 | Deployed Projects (Live)               |                                                 |
