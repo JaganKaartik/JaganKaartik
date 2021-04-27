@@ -34,7 +34,6 @@ Pinned!
 </p>
 <br>
 
-
 <p align="center">
 <a href="https://github.com/JaganKaartik"><img src="https://img.shields.io/github/followers/JaganKaartik.svg?label=GitHub&style=social" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/JaganKaartik"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
@@ -47,14 +46,14 @@ Pinned!
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+App+Developer!;Experienced+mainly+in+the+MERN+Stack!;Self+driven+and+passionate!;Interested+in+building+robust+and+scalable+software!;With+a+product/value+centric+approach!&center=true&width=650&height=60&color=00adb5">
 </p>
 
-<details>
-<summary>APIs I've built (Click to expand!)</summary>
+<details><summary>APIs I've built (Click to expand!)</summary>
   
 <h2 align="center" style="justify-center">
 APIs
 </h2>  
 <p align = "center">
 <img src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Good.Diet.Plans-API&theme=react">
+    <img src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=ParkingLot-Node.js-API&theme=react">
 <img src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Hapi-Foodle-API&theme=react">
 </p>
 
