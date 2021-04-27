@@ -1,26 +1,4 @@
-<p align="center">
-  <img width="350" height="200" src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</p>
 
-
-<p align="center">
-<a href="https://github.com/JaganKaartik"><img src="https://img.shields.io/github/followers/JaganKaartik.svg?label=GitHub&style=social" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/JaganKaartik"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://stackoverflow.com/users/12408623/jagan-kaartik"><img src="https://img.shields.io/badge/stackoverflow-FE7A16.svg?style=social&logo=stackoverflow" alt="stackoverflow"></a>
-<a href="https://blog.jagankaartik.live">
-  <img src="https://img.shields.io/badge/Tech Blog--_.svg?style=social&logo=jekyll">
-</p>
-  
-<p align="center">
-<a href="https://github.com/JaganKaartik">
-<img align="center"  src="https://github-readme-stats-lime-kappa.vercel.app/api?username=JaganKaartik&count_private=true&show_icons=true&theme=react" alt="Statistics"/>
-</a>
-</p>
-<br>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+App+Developer!;Experienced+mainly+in+the+MERN+Stack!;Self+driven+and+passionate!;Interested+in+building+robust+and+scalable+software!;With+a+product/value+centric+approach!&center=true&width=650&height=60&color=00adb5">
-</p>
 
 <!--
 **JaganKaartik/JaganKaartik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
