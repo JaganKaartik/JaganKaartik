@@ -21,7 +21,6 @@ Pinned!
 
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Shrynk.js&theme=react)](https://github.com/JaganKaartik/Shrynk.js)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=ParkingLot-Node.js-API&theme=react)](https://github.com/JaganKaartik/ParkingLot-Node.js-API)
-
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Structry&repo=Semantic-Similarity-Ranking-v.1&theme=react)](https://github.com/Structry/Semantic-Similarity-Ranking-v.1)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&theme=react)](https://github.com/JaganKaartik/Swizzl-Py)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=MyCloudle&repo=Quick-Node&theme=react)](https://github.com/MyCloudle/Quick-Node)
@@ -40,13 +39,15 @@ Pinned!
 <a href="https://stackoverflow.com/users/12408623/jagan-kaartik"><img src="https://img.shields.io/badge/stackoverflow-FE7A16.svg?style=social&logo=stackoverflow" alt="stackoverflow"></a>
 <a href="https://blog.jagankaartik.live">
   <img src="https://img.shields.io/badge/Tech Blog--_.svg?style=social&logo=jekyll">
+  </a>
 </p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+App+Developer!;Experienced+mainly+in+the+MERN+Stack!;Self+driven+and+passionate!;Interested+in+building+robust+and+scalable+software!;With+a+product/value+centric+approach!&center=true&width=650&height=60&color=00adb5">
 </p>
 
-<details><summary>APIs I've built (Click to expand!)</summary>
+<details>
+<summary>APIs I've built (Click to expand!)</summary>
   
 <h2 align="center" style="justify-center">
 APIs
