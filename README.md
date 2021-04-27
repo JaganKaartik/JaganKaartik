@@ -54,7 +54,7 @@ APIs
 </h2>  
 <p align = "center">
 <img src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Good.Diet.Plans-API&theme=react">
-    <img src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=ParkingLot-Node.js-API&theme=react">
+    <img src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Rocket-Lot&theme=react">
 <img src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Hapi-Foodle-API&theme=react">
 </p>
 
