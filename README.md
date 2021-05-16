@@ -75,7 +75,7 @@ APIs
   
 | Deployed Projects (Live)               |                                                 |
 |----------------------------------------|-------------------------------------------------|
-| Shrynk.js (2021)  <ul><li>A URL Shortener SPA built on the MERN stack.</li><li>Features <ul><li>Tiers & Quotas on URLs</li><li>Onboarding</li><li>OAuth</li><li>CRUD & Analytics Dashboards</li></ul></li></ul>                   | [Shrynk.js](https://shrynkjs.jagankaartik.live) |
+| Shrynk.js (2021)  <ul><li>A URL Shortener SPA built on the MERN stack.</li><li>Features <ul><li>Tiers & Quotas on URLs</li><li>Onboarding</li><li>OAuth</li><li>CRUD & Analytics Dashboards</li></ul></li></ul>                   | [Shrynk](https://shrynk.jagankaartik.live) |
 | Foodle <ul><li>A SPA built on the MERN stack, a CRUD application dealing with Dishes.</li></ul> | [Foodle](https://foodle.jagankaartik.live)       |
 | Tech Blog  <ul><li>My Development Blog</li></ul>                            | [Tech Blog](https://blog.jagankaartik.live)     |
 | Shrynk-Flask (v.1 - 2019)  <ul><li>Shrynk - A simple implementation of a URL shortener using Flask/Heroku.</li><li> Users can create and manage multiple URLs.</li><li>Admin Panel</li></ul>    | [Shrynk](https://shrynk.herokuapp.com)          |
