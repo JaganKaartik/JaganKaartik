@@ -1,5 +1,4 @@
 
-
 <!--
 **JaganKaartik/JaganKaartik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,20 +33,29 @@ Pinned!
 <br>
 
 <p align="center">
+
+<a href="https://stackoverflow.com/users/12408623/jagan-kaartik"><img src="https://stackoverflow.com/users/flair/12408623.png?theme=dark" width="208" height="58" alt="profile for Jagan Kaartik at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jagan Kaartik at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 <a href="https://github.com/JaganKaartik"><img src="https://img.shields.io/github/followers/JaganKaartik.svg?label=GitHub&style=social" alt="GitHub"></a>
+
 <a href="https://www.linkedin.com/in/JaganKaartik"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://stackoverflow.com/users/12408623/jagan-kaartik"><img src="https://img.shields.io/badge/stackoverflow-FE7A16.svg?style=social&logo=stackoverflow" alt="stackoverflow"></a>
+
 <a href="https://blog.jagankaartik.live">
   <img src="https://img.shields.io/badge/Tech Blog--_.svg?style=social&logo=jekyll">
-  </a>
+</a>
+
 </p>
+
+
+
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+App+Developer!;Experienced+mainly+in+the+MERN+Stack!;Self+driven+and+passionate!;Interested+in+building+robust+and+scalable+software!;With+a+product/value+centric+approach!&center=true&width=650&height=60&color=00adb5">
 </p>
 
-<details>
-<summary>APIs I've built (Click to expand!)</summary>
+<details open> 
+<summary>APIs I've built</summary>
   
 <h2 align="center" style="justify-center">
 APIs
@@ -58,19 +66,10 @@ APIs
 <img src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Hapi-Foodle-API&theme=react">
 </p>
 
-<h2 align="center" style="justify-center">
-Other Projects
-</h2>  
-
-<p align = "center">
-<img src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Haskell-Fundamentals&theme=react">
-<img src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=RSS-News-Feeds-Crawler&theme=react">
-</p>
-
 </details>
 
-<details>
-<summary>All Deployed Projects [Live] (Click to expand!)</summary>
+<details open>
+<summary>All Deployed Projects [Live]</summary>
   
 
   
@@ -93,7 +92,7 @@ Other Projects
 -->
  
 
-<details>
+<details open>
 <summary>Contributions Summary Graph</summary>
 
 ![](https://banana-tart-78604.herokuapp.com/graph?username=JaganKaartik&theme=react-dark)
