@@ -93,7 +93,7 @@ APIs
 -->
  
 
-<details open>
+<details>
 <summary>Contributions Summary Graph</summary>
 
 ![](https://banana-tart-78604.herokuapp.com/graph?username=JaganKaartik&theme=react-dark)
