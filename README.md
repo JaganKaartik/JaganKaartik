@@ -19,15 +19,15 @@ Pinned!
 </h2>  
 
 
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Rocket-Lot&theme=react)](https://github.com/JaganKaartik/Rocket-Lot)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Structry&repo=Semantic-Similarity-Ranking-v.1&theme=react)](https://github.com/Structry/Semantic-Similarity-Ranking-v.1)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&theme=react)](https://github.com/JaganKaartik/Swizzl-Py)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=MyCloudle&repo=Quick-Node&theme=react)](https://github.com/MyCloudle/Quick-Node)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Foodle&theme=react)](https://github.com/JaganKaartik/Foodle)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Rocket-Lot&theme=vue-dark)](https://github.com/JaganKaartik/Rocket-Lot)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Structry&repo=Semantic-Similarity-Ranking-v.1&theme=vue-dark)](https://github.com/Structry/Semantic-Similarity-Ranking-v.1)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&theme=vue-dark)](https://github.com/JaganKaartik/Swizzl-Py)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=MyCloudle&repo=Quick-Node&theme=vue-dark)](https://github.com/MyCloudle/Quick-Node)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Foodle&theme=vue-dark)](https://github.com/JaganKaartik/Foodle)
   
 <p align="center">
 <a href="https://github.com/JaganKaartik">
-<img align="center"  src="https://github-readme-stats-lime-kappa.vercel.app/api?username=JaganKaartik&count_private=true&show_icons=true&theme=react" alt="Statistics"/>
+<img align="center"  src="https://github-readme-stats-lime-kappa.vercel.app/api?username=JaganKaartik&count_private=true&show_icons=true&theme=prussian" alt="Statistics"/>
 </a>
 </p>
 <br>
