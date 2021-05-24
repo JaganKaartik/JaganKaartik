@@ -32,21 +32,9 @@ Pinned!
 </p>
 <br>
 
-<p align="center">
-
-<a href="https://stackoverflow.com/users/12408623/jagan-kaartik"><img src="https://stackoverflow.com/users/flair/12408623.png?theme=dark" width="218" height="58" alt="profile for Jagan Kaartik at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jagan Kaartik at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-<a href="https://www.linkedin.com/in/JaganKaartik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-
-<a href="https://blog.jagankaartik.live">
-  <img src="https://img.shields.io/badge/TechBlog-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white">
-</a>
-
-<!-- <a href="https://github.com/JaganKaartik"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> -->
-
-</p>
-
+| StackOverflow                                                                                                                                                                                                                                                                                                                                                                          | LinkedIn                                                                                                                                                                         | Blog                                                                                                                                                      |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://stackoverflow.com/users/12408623/jagan-kaartik"><img src="https://stackoverflow.com/users/flair/12408623.png?theme=dark" width="218" height="58" alt="profile for Jagan Kaartik at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jagan Kaartik at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> | <a href="https://www.linkedin.com/in/JaganKaartik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> | <a href="https://blog.jagankaartik.live">   <img src="https://img.shields.io/badge/TechBlog-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white"> </a> |
 
 
 
