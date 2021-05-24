@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center" style="justify-center">
-Pinned!
-</h2>  
+| StackOverflow                                                                                                                                                                                                                                                                                                                                                                          | LinkedIn                                                                                                                                                                         | Blog                                                                                                                                                      | Portfolio                                                                                                                                                                  | Quora                                         |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| <a href="https://stackoverflow.com/users/12408623/jagan-kaartik"><img src="https://stackoverflow.com/users/flair/12408623.png?theme=dark" width="218" height="58" alt="profile for Jagan Kaartik at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jagan Kaartik at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> | <a href="https://www.linkedin.com/in/JaganKaartik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> | <a href="https://blog.jagankaartik.live">   <img src="https://img.shields.io/badge/TechBlog-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white"> </a> | <a href="https://jagankaartik.live"> <img alt="Dev.to blog" src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=next-dot-js&logoColor=white" ></a> | <a href="https://www.quora.com/profile/Jagan-Kaartik-2"> <img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/></a>|
+
 
 
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Rocket-Lot&theme=vue-dark)](https://github.com/JaganKaartik/Rocket-Lot)
@@ -32,17 +33,9 @@ Pinned!
 </p>
 <br>
 
-| StackOverflow                                                                                                                                                                                                                                                                                                                                                                          | LinkedIn                                                                                                                                                                         | Blog                                                                                                                                                      | Portfolio                                                                                                                                                             |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <a href="https://stackoverflow.com/users/12408623/jagan-kaartik"><img src="https://stackoverflow.com/users/flair/12408623.png?theme=dark" width="218" height="58" alt="profile for Jagan Kaartik at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jagan Kaartik at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> | <a href="https://www.linkedin.com/in/JaganKaartik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> | <a href="https://blog.jagankaartik.live">   <img src="https://img.shields.io/badge/TechBlog-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white"> </a> | <a href="https://jagankaartik.live"> <img alt="Dev.to blog" src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=next-dot-js&logoColor=white" ></a> |
 
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+App+Developer!;Experienced+mainly+in+the+MERN+Stack!;Self+driven+and+passionate!;Interested+in+building+robust+and+scalable+software!;With+a+product/value+centric+approach!&center=true&width=650&height=60&color=00adb5">
-</p>
-
-<details open> 
-<summary>APIs I've built</summary>
+<details> 
+<summary>APIs Built</summary>
   
 <h2 align="center" style="justify-center">
 APIs
@@ -55,7 +48,7 @@ APIs
 
 </details>
 
-<details open>
+<details>
 <summary>All Deployed Projects [Live]</summary>
   
 
