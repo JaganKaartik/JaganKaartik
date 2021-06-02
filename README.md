@@ -23,7 +23,7 @@ Pinned!
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Rocket-Lot&theme=vue-dark)](https://github.com/JaganKaartik/Rocket-Lot)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Structry&repo=Semantic-Similarity-Ranking-v.1&theme=vue-dark)](https://github.com/Structry/Semantic-Similarity-Ranking-v.1)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&theme=vue-dark)](https://github.com/JaganKaartik/Swizzl-Py)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=MyCloudle&repo=Quick-Node&theme=vue-dark)](https://github.com/MyCloudle/Quick-Node)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Quick-Node-Server&theme=vue-dark)](https://github.com/MyCloudle/Quick-Node)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Foodle&theme=vue-dark)](https://github.com/JaganKaartik/Foodle)
   
 <p align="center">
