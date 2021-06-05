@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Screenshot 2021-06-04 at 10 57 45 PM](https://user-images.githubusercontent.com/20874468/120840781-480d7e00-c588-11eb-9cfb-a5dde2c20175.png)
+
 
 
 | StackOverflow                                                                                                                                                                                                                                                                                                                                                                          | LinkedIn                                                                                                                                                                         | Blog                                                                                                                                                      | Portfolio                                                                                                                                                                  | Quora                                         |
