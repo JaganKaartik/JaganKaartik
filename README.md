@@ -28,6 +28,8 @@ Pinned!
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&theme=vue-dark)](https://github.com/JaganKaartik/Swizzl-Py)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Quick-Node-Server&theme=vue-dark)](https://github.com/MyCloudle/Quick-Node)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Foodle&theme=vue-dark)](https://github.com/JaganKaartik/Foodle)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Good.Diet.Plans-API&theme=vue-dark)](https://github.com/JaganKaartik/Good.Diet.Plans-API)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Hapi-Foodle-API&theme=vue-dark)](https://github.com/JaganKaartik/Hapi-Foodle-API)
 
 
 
