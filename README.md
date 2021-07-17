@@ -15,21 +15,16 @@ Here are some ideas to get you started:
 -->
 
 
-
 | StackOverflow                                                                                                                                                                                                                                                                                                                                                                          | LinkedIn                                                                                                                                                                         | Blog                                                                                                                                                      | Portfolio                                                                                                                                                                  | Quora                                         |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
 | <a href="https://stackoverflow.com/users/12408623/jagan-kaartik?tab=profile"><img src="https://stackoverflow.com/users/flair/12408623.png?theme=dark" width="218" height="58" alt="profile for Jagan Kaartik at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jagan Kaartik at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> | <a href="https://www.linkedin.com/in/JaganKaartik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> | <a href="https://blog.jagankaartik.com">   <img src="https://img.shields.io/badge/Tech%20Blog-%23ED2B88?style=for-the-badge&logo=hugo&logoColor=white"> </a> | <a href="https://jagankaartik.com"> <img alt="Dev.to blog" src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=Next.js&logoColor=white" ></a> | <a href="https://www.quora.com/profile/Jagan-Kaartik-2"> <img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/></a>|
 
 Pinned!
 
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Shrynk.js&theme=react)](https://github.com/JaganKaartik/Shrynk.js)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Rocket-Lot&theme=react)](https://github.com/JaganKaartik/Rocket-Lot)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Structry&repo=Semantic-Similarity-Ranking-v.1&theme=react)](https://github.com/Structry/Semantic-Similarity-Ranking-v.1)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&theme=react)](https://github.com/JaganKaartik/Swizzl-Py)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Quick-Node-Server&theme=react)](https://github.com/MyCloudle/Quick-Node)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Foodle&theme=react)](https://github.com/JaganKaartik/Foodle)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Good.Diet.Plans-API&theme=react)](https://github.com/JaganKaartik/Good.Diet.Plans-API)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Hapi-Foodle-API&theme=react)](https://github.com/JaganKaartik/Hapi-Foodle-API)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Shrynk.js&theme=prussian)](https://github.com/JaganKaartik/Shrynk.js)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Structry&repo=Semantic-Similarity-Ranking-v.1&theme=prussian)](https://github.com/Structry/Semantic-Similarity-Ranking-v.1)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&theme=prussian)](https://github.com/JaganKaartik/Swizzl-Py)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Foodle&theme=prussian)](https://github.com/JaganKaartik/Foodle)
 
 
 
@@ -43,15 +38,16 @@ Pinned!
 
 
 <details> 
-<summary>APIs Built</summary>
+<summary>Other Repos, APIs, etc.</summary>
   
 <h2 align="center" style="justify-center">
 APIs
 </h2>  
 <p align = "center">
-<img src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Good.Diet.Plans-API&theme=react">
-    <img src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Rocket-Lot&theme=react">
-<img src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Hapi-Foodle-API&theme=react">
+<img src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Good.Diet.Plans-API&theme=prussian">
+<img src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Rocket-Lot&theme=prussian">
+<img src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Hapi-Foodle-API&theme=prussian">
+<img src="https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Quick-Node-Server&theme=prussian">
 </p>
 
 </details>
