@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Pinned!
 
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Shrynk.js&theme=prussian)](https://github.com/JaganKaartik/Shrynk.js)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Structry&repo=Semantic-Similarity-Ranking-v.1&theme=prussian)](https://github.com/Structry/Semantic-Similarity-Ranking-v.1)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Jhex-AI&repo=Semantic-Similarity-Ranking-v.1&theme=prussian)](https://github.com/Structry/Semantic-Similarity-Ranking-v.1)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&theme=prussian)](https://github.com/JaganKaartik/Swizzl-Py)
 [![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Foodle&theme=prussian)](https://github.com/JaganKaartik/Foodle)
 
