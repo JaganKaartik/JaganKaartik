@@ -16,9 +16,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12408623&theme=dark&layout=compact)](https://stackoverflow.com/users/12408623/jagan-kaartik)
 
 ### ...
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Rocket-Lot&theme=nord)](https://github.com/JaganKaartik/Rocket-Lot)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Jhex-AI&repo=Semantic-Similarity-Ranking-v.1&theme=nord)](https://github.com/Structry/Semantic-Similarity-Ranking-v.1)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Shrynk.js&theme=nord)](https://github.com/JaganKaartik/Shrynk.js)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&theme=nord)](https://github.com/JaganKaartik/Swizzl-Py)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Foodle&theme=nord)](https://github.com/JaganKaartik/Foodle)
-[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Quick-Node-Server&theme=nord)](https://github.com/JaganKaartik/Quick-Node-Server)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Rocket-Lot&theme=dark)](https://github.com/JaganKaartik/Rocket-Lot)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=Jhex-AI&repo=Semantic-Similarity-Ranking-v.1&theme=dark)](https://github.com/Structry/Semantic-Similarity-Ranking-v.1)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Shrynk.js&theme=dark)](https://github.com/JaganKaartik/Shrynk.js)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&theme=dark)](https://github.com/JaganKaartik/Swizzl-Py)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Foodle&theme=dark)](https://github.com/JaganKaartik/Foodle)
+[![Readme Card](https://github-readme-stats-lime-kappa.vercel.app/api/pin/?username=jagankaartik&repo=Quick-Node-Server&theme=dark)](https://github.com/JaganKaartik/Quick-Node-Server)
