@@ -16,15 +16,3 @@
 Apart from coding, I also maintain a blog - you can find my articles on my website at [blog.jagankaartik.com](https://blog.jagankaartik.com) as well as on [Medium](https://medium.com/@kaartikjagan), I also answer technical content on [stackoverflow](https://stackoverflow.com/users/12408623/jagan-kaartik?tab=profile) as well as [quora](https://www.quora.com/profile/Jagan-Kaartik-2).
 
 [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12408623&theme=dark&layout=compact)](https://stackoverflow.com/users/12408623/jagan-kaartik)
-
-<details>
-    <summary>Pinned!</summary>
-
-[![Readme Card](https://github-readme-stats-sage-one.vercel.app/api/pin/?username=jagankaartik&repo=Rocket-Lot&theme=github_dark)](https://github.com/JaganKaartik/Rocket-Lot)
-[![Readme Card](https://github-readme-stats-sage-one.vercel.app/api/pin/?username=Jhex-AI&repo=Semantic-Similarity-Ranking-v.1&theme=github_dark)](https://github.com/Structry/Semantic-Similarity-Ranking-v.1)
-[![Readme Card](https://github-readme-stats-sage-one.vercel.app/api/pin/?username=jagankaartik&repo=Shrynk.js&theme=github_dark)](https://github.com/JaganKaartik/Shrynk.js)
-[![Readme Card](https://github-readme-stats-sage-one.vercel.app/api/pin/?username=jagankaartik&repo=Swizzl-Py&theme=github_dark)](https://github.com/JaganKaartik/Swizzl-Py)
-[![Readme Card](https://github-readme-stats-sage-one.vercel.app/api/pin/?username=jagankaartik&repo=Foodle&theme=github_dark)](https://github.com/JaganKaartik/Foodle)
-[![Readme Card](https://github-readme-stats-sage-one.vercel.app/api/pin/?username=jagankaartik&repo=Quick-Node-Server&theme=github_dark)](https://github.com/JaganKaartik/Quick-Node-Server)
-
-</details>
